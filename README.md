@@ -3,30 +3,30 @@
 # Hi, I'm Akmal Fikry 👋
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Driven-orange?style=for-the-badge&logo=brain" alt="AI / ML" />
-  <img src="https://img.shields.io/badge/Full-Stack-Developer-0A84FF?style=for-the-badge" alt="Full-Stack" />
-  <img src="https://img.shields.io/badge/Problem-Solver-6A5AE0?style=for-the-badge" alt="Problem Solver" />
-  <img src="https://img.shields.io/badge/Learning-Continuously-34D399?style=for-the-badge" alt="Always Learning" />
+  <img src="https://img.shields.io/badge/Student-Information%20Technology-6A5AE0?style=for-the-badge" alt="IT Student" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-orange?style=for-the-badge&logo=brain" alt="AI / ML" />
+  <img src="https://img.shields.io/badge/Full-Stack-Developer-0A84FF?style=for-the-badge" alt="Full-Stack Developer" />
 </p>
 
-I’m an IT student and developer passionate about building impactful digital solutions through AI, machine learning, and full-stack technology.
+🎓 Information Technology Student <br>
+💡 Passionate about AI, software development, and building practical digital solutions
 
 </div>
 
 ## About Me
 
-- 💡 Interested in AI/ML, software engineering, smart systems, and real-world problem solving
-- 🌱 Currently learning advanced Python, machine learning workflows, AI integrations, and modern web/mobile application design
-- 🧠 Building projects around NLP, sentiment analysis, recommendation systems, and user-focused platforms
-- 🤝 Open to collaboration on meaningful software projects, AI-powered products, and tech-driven ideas
+I’m a student developer focused on learning by building real-world projects. I enjoy exploring the intersection of software engineering, data, and artificial intelligence to solve everyday problems through technology.
 
-## Core Focus Areas
+- 🎯 Interested in AI/ML, full-stack development, and product thinking
+- 🌱 Currently learning Python, machine learning, backend systems, and modern web/mobile app development
+- 🧠 Building projects in NLP, sentiment analysis, travel tech, and healthcare tech
+- 🤝 Looking to collaborate on meaningful student projects, internships, and tech innovations
 
-- Artificial Intelligence & Machine Learning
-- Full-Stack Web Development
-- Human-Centered Product Design
-- Data-Driven Decision Making
-- Scalable and Practical Software Solutions
+## Education & Focus
+
+- 📚 Pursuing studies in Information Technology
+- 🔍 Developing skills in software engineering, data-driven systems, and intelligent applications
+- 🚀 Building projects that combine creativity, technology, and real-world usability
 
 ## Tech Stack
 
@@ -48,7 +48,7 @@ I’m an IT student and developer passionate about building impactful digital so
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Databases & Tools
+### Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -57,39 +57,39 @@ I’m an IT student and developer passionate about building impactful digital so
 ## Featured Projects
 
 - [TourMate - Smart Tourism Platform](https://github.com/IT24100444/TourMate---smart-tourism-platform)  
-  A smart tourism platform with AI-assisted travel recommendations, user-friendly booking flows, and multi-platform architecture.
+  A smart tourism platform with backend, frontend, mobile, and AI-driven travel assistance features.
 
 - [Safe-Care-Application](https://github.com/IT24100444/Safe-Care-Application)  
-  A healthcare navigation and scheduling platform designed for secure patient-doctor interaction and service discovery.
+  A healthcare solution for facility discovery, appointment workflows, and secure platform interactions.
 
 - [AIML Web Sentiment Analysis Model](https://github.com/IT24100444/AIML_Web_Sentiment_Analysis_Model)  
-  A supervised machine learning solution for classifying car reviews into positive, neutral, and negative sentiment.
+  A machine learning project for classifying car reviews into positive, neutral, and negative sentiment.
 
 - [portfolio-nextjs](https://github.com/IT24100444/portfolio-nextjs)  
-  A personal portfolio project built with Next.js to showcase work, projects, and ideas professionally.
+  A portfolio project built to present my work and technical journey in a clean and professional way.
 
-## Current Journey
+## Current Goals
 
-- 📌 Building practical projects that combine AI with real user needs
-- 🚀 Improving my full-stack development and product thinking skills
-- 🧩 Exploring how intelligent systems can solve daily and community-level challenges
-- 🌍 Focusing on creating solutions that are useful, scalable, and meaningful
+- 📌 Keep building meaningful software projects
+- 🚀 Improve my practical skills in AI, web, and backend development
+- 🧩 Explore how data and technology can solve real user problems
+- 🌍 Create projects that are useful, scalable, and impactful
 
-## Connect With Me
+## Connect
 
 - 📫 GitHub: [@IT24100444](https://github.com/IT24100444)
-- 💬 Open to collaboration, internships, and innovative project opportunities
-- ✨ Always happy to connect with people building useful technology
+- 💬 Open to collaboration, internships, and innovative project ideas
+- ✨ Always happy to connect with fellow learners and creators
 
 ## Fun Fact
 
-I enjoy turning practical ideas into real digital products — especially where AI and software can create genuine impact.
+I enjoy turning ideas into functional projects and learning through hands-on experience.
 
 ---
 
 <div align="center">
 
-> “Build what matters. Learn continuously. Create with purpose.”
+> “Learning by building, one project at a time.”
 
 </div>
 
